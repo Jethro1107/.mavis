@@ -72,9 +72,9 @@
     "pinned": false
   },
   "agent:mavis/mavis": {
-    "use_count": 1,
+    "use_count": 2,
     "patch_count": 0,
-    "last_used_at": 1780311864958,
+    "last_used_at": 1780317880028,
     "last_patched_at": 1780311864958,
     "created_at": 1780311864958,
     "state": "active",
@@ -95,6 +95,15 @@
     "last_used_at": 1780312841090,
     "last_patched_at": 1780312841090,
     "created_at": 1780312841090,
+    "state": "active",
+    "pinned": false
+  },
+  "agent:mavis/mavis-team": {
+    "use_count": 1,
+    "patch_count": 0,
+    "last_used_at": 1780317891901,
+    "last_patched_at": 1780317891901,
+    "created_at": 1780317891901,
     "state": "active",
     "pinned": false
   }
