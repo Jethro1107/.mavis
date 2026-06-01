@@ -1,0 +1,101 @@
+{
+  "agent:mavis/skill-refiner": {
+    "use_count": 2,
+    "patch_count": 0,
+    "last_used_at": 1780302400144,
+    "last_patched_at": 1780296229291,
+    "created_at": 1780296229291,
+    "state": "active",
+    "pinned": false
+  },
+  "global:literature-note": {
+    "use_count": 1,
+    "patch_count": 0,
+    "last_used_at": 1780296235558,
+    "last_patched_at": 1780296235558,
+    "created_at": 1780296235558,
+    "state": "active",
+    "pinned": false
+  },
+  "agent:agent-c61566066ba5/mavis": {
+    "use_count": 1,
+    "patch_count": 0,
+    "last_used_at": 1780297578361,
+    "last_patched_at": 1780297578361,
+    "created_at": 1780297578361,
+    "state": "active",
+    "pinned": false
+  },
+  "global:zotero-use": {
+    "use_count": 1,
+    "patch_count": 0,
+    "last_used_at": 1780302407019,
+    "last_patched_at": 1780302407019,
+    "created_at": 1780302407019,
+    "state": "active",
+    "pinned": false
+  },
+  "agent:mavis/zotero-use": {
+    "use_count": 2,
+    "patch_count": 0,
+    "last_used_at": 1780303863081,
+    "last_patched_at": 1780302863150,
+    "created_at": 1780302863150,
+    "state": "active",
+    "pinned": false
+  },
+  "agent:mavis/obsidian-cli": {
+    "use_count": 1,
+    "patch_count": 0,
+    "last_used_at": 1780307307158,
+    "last_patched_at": 1780307307158,
+    "created_at": 1780307307158,
+    "state": "active",
+    "pinned": false
+  },
+  "agent:mavis/create-agent": {
+    "use_count": 1,
+    "patch_count": 0,
+    "last_used_at": 1780311467872,
+    "last_patched_at": 1780311467872,
+    "created_at": 1780311467872,
+    "state": "active",
+    "pinned": false
+  },
+  "agent:general/mavis": {
+    "use_count": 1,
+    "patch_count": 0,
+    "last_used_at": 1780311845503,
+    "last_patched_at": 1780311845503,
+    "created_at": 1780311845503,
+    "state": "active",
+    "pinned": false
+  },
+  "agent:mavis/mavis": {
+    "use_count": 1,
+    "patch_count": 0,
+    "last_used_at": 1780311864958,
+    "last_patched_at": 1780311864958,
+    "created_at": 1780311864958,
+    "state": "active",
+    "pinned": false
+  },
+  "agent:agent-45acf34ec377/zotero-use": {
+    "use_count": 1,
+    "patch_count": 0,
+    "last_used_at": 1780312841088,
+    "last_patched_at": 1780312841088,
+    "created_at": 1780312841088,
+    "state": "active",
+    "pinned": false
+  },
+  "agent:agent-45acf34ec377/obsidian-cli": {
+    "use_count": 1,
+    "patch_count": 0,
+    "last_used_at": 1780312841090,
+    "last_patched_at": 1780312841090,
+    "created_at": 1780312841090,
+    "state": "active",
+    "pinned": false
+  }
+}
