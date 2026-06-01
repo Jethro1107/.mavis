@@ -42,5 +42,5 @@ description: Write a literature note on a piece of literature collaboratively wi
 1. **Delegate to Writer** - use the prompt under `references/prompt-for-writer/write-final-note.md`:
    - Instruct the Writer to read all section notes (`notes/section-*.md`), the original `literature-full-text.md`, `user-requests.md`, and `notes/existing-note.md` (if any).
    - Synthesize these materials into a single, cohesive, and concept-oriented final literature note, ensuring logical flow and resolving contradictions.
-2. **Final Output:** Save the final synthesis to `notes/final-literature-note.md`.
-3. **Final Review:** Present the final note to the user for ultimate inspection, modification, and integration into the broader Zettelkasten.
+2. **Final Output:** The writer will save the final note to `notes/final-note.md`.
+3. **Final Review:** Present the final note file to the user for ultimate inspection, modification, and integration into the broader Zettelkasten.

@@ -1,0 +1,535 @@
+[23:00:01.528] INFO: [daemon.js:17438] [997694c119044ba985a4c14388c580f2] → GET /mavis/health
+[23:00:01.529] INFO: [daemon.js:17438] [997694c119044ba985a4c14388c580f2] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:00:11.536] INFO: [daemon.js:17438] [be3c92acd24442608e2f1494a29ed710] → GET /mavis/health
+[23:00:11.537] INFO: [daemon.js:17438] [be3c92acd24442608e2f1494a29ed710] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:00:21.535] INFO: [daemon.js:17438] [b24d782fcded470fbe4579f7b71ec4be] → GET /mavis/health
+[23:00:21.535] INFO: [daemon.js:17438] [b24d782fcded470fbe4579f7b71ec4be] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:00:31.546] INFO: [daemon.js:17438] [23a316de9c474851ad2835b95aa90720] → GET /mavis/health
+[23:00:31.546] INFO: [daemon.js:17438] [23a316de9c474851ad2835b95aa90720] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:00:34.641] INFO: [daemon.js:17438] [a2b2a57cf6c440edbfbbe26df79f9732] → GET /mavis/mcp/cu
+[23:00:34.641] INFO: [daemon.js:17438] [a2b2a57cf6c440edbfbbe26df79f9732] ← GET /mavis/mcp/cu status=200 duration=0ms {"locale":"en"}
+[23:00:34.641] INFO: [daemon.js:17438] [82fe4af6ee564f21a1a34cd099f69806] → GET /mavis/mcp/trash
+[23:00:34.642] INFO: [daemon.js:17438] [82fe4af6ee564f21a1a34cd099f69806] ← GET /mavis/mcp/trash status=200 duration=1ms {"locale":"en"}
+[23:00:41.553] INFO: [daemon.js:17438] [cefedc6f299b44eda95f81b7cf707bde] → GET /mavis/health
+[23:00:41.553] INFO: [daemon.js:17438] [cefedc6f299b44eda95f81b7cf707bde] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:00:51.555] INFO: [daemon.js:17438] [f882529e860f4992aa43aa374474ac29] → GET /mavis/health
+[23:00:51.555] INFO: [daemon.js:17438] [f882529e860f4992aa43aa374474ac29] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:01:01.575] INFO: [daemon.js:17438] [358c6ef7039f4c28918c86d5a7812319] → GET /mavis/health
+[23:01:01.575] INFO: [daemon.js:17438] [358c6ef7039f4c28918c86d5a7812319] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:01:10.039] INFO: [daemon.js:17438] [e21247d540b14f77a5135ac70e79a058] [mcp:matrix:stderr] [matrix-mcp-cli] tools/list dropped 2 unknown tool(s) not in this cli's KNOWN_TOOLS: matrix_extract_content_from_websites, matrix_get_upload_url
+[23:01:10.053] INFO: [daemon.js:17438] [8b724d86f2ce45bdba34a081a86d3395] → POST /mavis/mcp/cu
+[23:01:10.058] INFO: [daemon.js:17438] [8b724d86f2ce45bdba34a081a86d3395] ← POST /mavis/mcp/cu status=200 duration=5ms {"locale":"en"}
+[23:01:10.058] INFO: [daemon.js:17438] [4e316b105f744dc3936a898c747ba2af] → POST /mavis/mcp/trash
+[23:01:10.059] INFO: [daemon.js:17438] [4e316b105f744dc3936a898c747ba2af] ← POST /mavis/mcp/trash status=200 duration=1ms {"locale":"en"}
+[23:01:11.568] INFO: [daemon.js:17438] [c9f09a5495584dfe8bd09e6bb88d4ab0] → GET /mavis/health
+[23:01:11.568] INFO: [daemon.js:17438] [c9f09a5495584dfe8bd09e6bb88d4ab0] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:01:21.585] INFO: [daemon.js:17438] [c9c5be58386b4fb4bfade339e6304875] → GET /mavis/health
+[23:01:21.585] INFO: [daemon.js:17438] [c9c5be58386b4fb4bfade339e6304875] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:01:31.580] INFO: [daemon.js:17438] [35a5873e20644fc08223775ae80fdbab] → GET /mavis/health
+[23:01:31.580] INFO: [daemon.js:17438] [35a5873e20644fc08223775ae80fdbab] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:01:41.592] INFO: [daemon.js:17438] [0ba2a9d377c94f07be207ce490a4b843] → GET /mavis/health
+[23:01:41.592] INFO: [daemon.js:17438] [0ba2a9d377c94f07be207ce490a4b843] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:01:51.599] INFO: [daemon.js:17438] [edfaab9bc62048b08a77110fc5277446] → GET /mavis/health
+[23:01:51.599] INFO: [daemon.js:17438] [edfaab9bc62048b08a77110fc5277446] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:02:01.602] INFO: [daemon.js:17438] [cf5759efa9fa405bbc756ba35aa64120] → GET /mavis/health
+[23:02:01.602] INFO: [daemon.js:17438] [cf5759efa9fa405bbc756ba35aa64120] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:02:11.609] INFO: [daemon.js:17438] [9c38ae385c1544afa9ac3dfcf6e5ee63] → GET /mavis/health
+[23:02:11.609] INFO: [daemon.js:17438] [9c38ae385c1544afa9ac3dfcf6e5ee63] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:02:21.613] INFO: [daemon.js:17438] [405511aee7ee41e8863c7f39f1cd390c] → GET /mavis/health
+[23:02:21.613] INFO: [daemon.js:17438] [405511aee7ee41e8863c7f39f1cd390c] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:02:31.625] INFO: [daemon.js:17438] [9a7933e29eba459e97b67d951d963db5] → GET /mavis/health
+[23:02:31.625] INFO: [daemon.js:17438] [9a7933e29eba459e97b67d951d963db5] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:02:41.628] INFO: [daemon.js:17438] [eb4fb73e58984bbc8bcea9ea20da6510] → GET /mavis/health
+[23:02:41.629] INFO: [daemon.js:17438] [eb4fb73e58984bbc8bcea9ea20da6510] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:02:51.635] INFO: [daemon.js:17438] [e219be20d9f94217ad14642a7a99b8ba] → GET /mavis/health
+[23:02:51.636] INFO: [daemon.js:17438] [e219be20d9f94217ad14642a7a99b8ba] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:03:01.637] INFO: [daemon.js:17438] [e527c792d76f4086a2351840bda9bea9] → GET /mavis/health
+[23:03:01.638] INFO: [daemon.js:17438] [e527c792d76f4086a2351840bda9bea9] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:03:11.641] INFO: [daemon.js:17438] [25104d5e5d3443a1bf3b992dff75e237] → GET /mavis/health
+[23:03:11.642] INFO: [daemon.js:17438] [25104d5e5d3443a1bf3b992dff75e237] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:03:21.648] INFO: [daemon.js:17438] [5e4ab30036dd4e97bc0235150450e7a7] → GET /mavis/health
+[23:03:21.648] INFO: [daemon.js:17438] [5e4ab30036dd4e97bc0235150450e7a7] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:03:31.654] INFO: [daemon.js:17438] [98c9121e039d4de38509e4fc61a9f90a] → GET /mavis/health
+[23:03:31.654] INFO: [daemon.js:17438] [98c9121e039d4de38509e4fc61a9f90a] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:03:41.678] INFO: [daemon.js:17438] [7bb1f0efa7b74822a913931822ea9319] → GET /mavis/health
+[23:03:41.678] INFO: [daemon.js:17438] [7bb1f0efa7b74822a913931822ea9319] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:03:51.674] INFO: [daemon.js:17438] [fcae83fb62a54cb2b17bb2efaf09280e] → GET /mavis/health
+[23:03:51.674] INFO: [daemon.js:17438] [fcae83fb62a54cb2b17bb2efaf09280e] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:04:01.687] INFO: [daemon.js:17438] [142b1e7c938d45909cb21d7f8acf2d12] → GET /mavis/health
+[23:04:01.688] INFO: [daemon.js:17438] [142b1e7c938d45909cb21d7f8acf2d12] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:04:11.698] INFO: [daemon.js:17438] [faaa4131ff3e4698880e32b7f086edbb] → GET /mavis/health
+[23:04:11.698] INFO: [daemon.js:17438] [faaa4131ff3e4698880e32b7f086edbb] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:04:21.720] INFO: [daemon.js:17438] [eaed0f5ba64340f088cd8e8c98281038] → GET /mavis/health
+[23:04:21.720] INFO: [daemon.js:17438] [eaed0f5ba64340f088cd8e8c98281038] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:04:31.721] INFO: [daemon.js:17438] [f739a9f99e3947a58ffa6a7c0ccfb58c] → GET /mavis/health
+[23:04:31.722] INFO: [daemon.js:17438] [f739a9f99e3947a58ffa6a7c0ccfb58c] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:04:41.729] INFO: [daemon.js:17438] [3f0efeee63a24c7684f6ac8ac5027087] → GET /mavis/health
+[23:04:41.730] INFO: [daemon.js:17438] [3f0efeee63a24c7684f6ac8ac5027087] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:04:51.740] INFO: [daemon.js:17438] [e292d4fa581d4ce2885928acffb2e2b8] → GET /mavis/health
+[23:04:51.741] INFO: [daemon.js:17438] [e292d4fa581d4ce2885928acffb2e2b8] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:05:01.754] INFO: [daemon.js:17438] [5f96a26c2eaa4c03902d53ae585181db] → GET /mavis/health
+[23:05:01.755] INFO: [daemon.js:17438] [5f96a26c2eaa4c03902d53ae585181db] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:05:11.765] INFO: [daemon.js:17438] [3d769b2833e44f108bcc43dd155d9529] → GET /mavis/health
+[23:05:11.766] INFO: [daemon.js:17438] [3d769b2833e44f108bcc43dd155d9529] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:05:21.775] INFO: [daemon.js:17438] [cb0d844bf1df4e6a8c6aee7fd7e63b4e] → GET /mavis/health
+[23:05:21.775] INFO: [daemon.js:17438] [cb0d844bf1df4e6a8c6aee7fd7e63b4e] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:05:31.783] INFO: [daemon.js:17438] [ecb8902b20634591be4bfc943768a650] → GET /mavis/health
+[23:05:31.784] INFO: [daemon.js:17438] [ecb8902b20634591be4bfc943768a650] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:05:41.288] INFO: [daemon.js:17438] [ce8b2a1801564e44b74c20ad2587f7e8] → GET /mavis/mcp/cu
+[23:05:41.289] INFO: [daemon.js:17438] [ce8b2a1801564e44b74c20ad2587f7e8] ← GET /mavis/mcp/cu status=200 duration=1ms {"locale":"en"}
+[23:05:41.289] INFO: [daemon.js:17438] [0ed58acc26064ee3b9fdc44040f4cbae] → GET /mavis/mcp/trash
+[23:05:41.290] INFO: [daemon.js:17438] [0ed58acc26064ee3b9fdc44040f4cbae] ← GET /mavis/mcp/trash status=200 duration=1ms {"locale":"en"}
+[23:05:42.046] INFO: [daemon.js:17438] [0ea4c6993884459398643e5f779f1aee] → GET /mavis/health
+[23:05:42.047] INFO: [daemon.js:17438] [0ea4c6993884459398643e5f779f1aee] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:05:51.803] INFO: [daemon.js:17438] [9f0ccff45fc9429ab042745396b37e90] → GET /mavis/health
+[23:05:51.803] INFO: [daemon.js:17438] [9f0ccff45fc9429ab042745396b37e90] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:06:01.818] INFO: [daemon.js:17438] [19fc41f08f3c44c285b797885e445d86] → GET /mavis/health
+[23:06:01.819] INFO: [daemon.js:17438] [19fc41f08f3c44c285b797885e445d86] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:06:10.050] INFO: [daemon.js:17438] [1416d8c535c1465a98c25f9d5179596c] → POST /mavis/mcp/cu
+[23:06:10.052] INFO: [daemon.js:17438] [1416d8c535c1465a98c25f9d5179596c] ← POST /mavis/mcp/cu status=200 duration=2ms {"locale":"en"}
+[23:06:10.052] INFO: [daemon.js:17438] [bd94cbe3d86444e38981f026864d0603] → POST /mavis/mcp/trash
+[23:06:10.053] INFO: [daemon.js:17438] [bd94cbe3d86444e38981f026864d0603] ← POST /mavis/mcp/trash status=200 duration=1ms {"locale":"en"}
+[23:06:10.503] INFO: [daemon.js:17438] [1d86fbf4b0e54d43b7bf0fd89407dd98] [mcp:matrix:stderr] [matrix-mcp-cli] tools/list dropped 2 unknown tool(s) not in this cli's KNOWN_TOOLS: matrix_extract_content_from_websites, matrix_get_upload_url
+[23:06:11.827] INFO: [daemon.js:17438] [e0b35e9e62cb4426a2303dce213a978b] → GET /mavis/health
+[23:06:11.827] INFO: [daemon.js:17438] [e0b35e9e62cb4426a2303dce213a978b] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:06:21.833] INFO: [daemon.js:17438] [d51ea471348d4e5cac63e5aa80de24c7] → GET /mavis/health
+[23:06:21.833] INFO: [daemon.js:17438] [d51ea471348d4e5cac63e5aa80de24c7] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:06:31.844] INFO: [daemon.js:17438] [430536d793514322909623c40883d7e0] → GET /mavis/health
+[23:06:31.845] INFO: [daemon.js:17438] [430536d793514322909623c40883d7e0] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:06:41.845] INFO: [daemon.js:17438] [3ea45b319e0f4fd2a3d147a2a5a445d3] → GET /mavis/health
+[23:06:41.845] INFO: [daemon.js:17438] [3ea45b319e0f4fd2a3d147a2a5a445d3] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:06:51.866] INFO: [daemon.js:17438] [32f2e04eb2d44386a5c271b6c399fd6a] → GET /mavis/health
+[23:06:51.867] INFO: [daemon.js:17438] [32f2e04eb2d44386a5c271b6c399fd6a] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:07:01.906] INFO: [daemon.js:17438] [24815852dbb34593a22483fb0371157e] → GET /mavis/health
+[23:07:01.906] INFO: [daemon.js:17438] [24815852dbb34593a22483fb0371157e] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:07:11.882] INFO: [daemon.js:17438] [3b4a8f1207534cdb986c768c661964b5] → GET /mavis/health
+[23:07:11.882] INFO: [daemon.js:17438] [3b4a8f1207534cdb986c768c661964b5] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:07:21.888] INFO: [daemon.js:17438] [17d8df9e5df744539167c5f535e136ae] → GET /mavis/health
+[23:07:21.888] INFO: [daemon.js:17438] [17d8df9e5df744539167c5f535e136ae] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:07:31.900] INFO: [daemon.js:17438] [28751f764d43415a966ca042f29a20cf] → GET /mavis/health
+[23:07:31.900] INFO: [daemon.js:17438] [28751f764d43415a966ca042f29a20cf] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:07:41.908] INFO: [daemon.js:17438] [094dd9e1be454ff08d36b29f08c78cac] → GET /mavis/health
+[23:07:41.908] INFO: [daemon.js:17438] [094dd9e1be454ff08d36b29f08c78cac] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:07:51.917] INFO: [daemon.js:17438] [892fc75724bb4760b442cde59a5f109f] → GET /mavis/health
+[23:07:51.917] INFO: [daemon.js:17438] [892fc75724bb4760b442cde59a5f109f] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:08:01.934] INFO: [daemon.js:17438] [d851affefd7544b7a053fda1f9269439] → GET /mavis/health
+[23:08:01.934] INFO: [daemon.js:17438] [d851affefd7544b7a053fda1f9269439] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:08:11.939] INFO: [daemon.js:17438] [ecfda0afe99f47159892d8d14b670418] → GET /mavis/health
+[23:08:11.940] INFO: [daemon.js:17438] [ecfda0afe99f47159892d8d14b670418] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:08:21.933] INFO: [daemon.js:17438] [ad8960ea672249a2a5890d56961c82d9] → GET /mavis/health
+[23:08:21.933] INFO: [daemon.js:17438] [ad8960ea672249a2a5890d56961c82d9] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:08:31.947] INFO: [daemon.js:17438] [7cf5cce88a964a6793f1f1112336eba5] → GET /mavis/health
+[23:08:31.948] INFO: [daemon.js:17438] [7cf5cce88a964a6793f1f1112336eba5] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:08:41.955] INFO: [daemon.js:17438] [20f4ff5bf18f4aeeb2f10bfef889eb34] → GET /mavis/health
+[23:08:41.956] INFO: [daemon.js:17438] [20f4ff5bf18f4aeeb2f10bfef889eb34] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:08:51.968] INFO: [daemon.js:17438] [509a4762f93c44e4a4efb750e5499584] → GET /mavis/health
+[23:08:51.968] INFO: [daemon.js:17438] [509a4762f93c44e4a4efb750e5499584] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:09:02.017] INFO: [daemon.js:17438] [f726586e57034ce5a302ad3e174eeb8e] → GET /mavis/health
+[23:09:02.018] INFO: [daemon.js:17438] [f726586e57034ce5a302ad3e174eeb8e] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:09:11.986] INFO: [daemon.js:17438] [69bcf880209845c7ba2813b1b3d435b9] → GET /mavis/health
+[23:09:11.987] INFO: [daemon.js:17438] [69bcf880209845c7ba2813b1b3d435b9] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:09:21.995] INFO: [daemon.js:17438] [148f9ea82b7043459ff2b06127236b9f] → GET /mavis/health
+[23:09:21.996] INFO: [daemon.js:17438] [148f9ea82b7043459ff2b06127236b9f] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:09:31.997] INFO: [daemon.js:17438] [64149f5695a347ceb67a8daa59dcb416] → GET /mavis/health
+[23:09:31.997] INFO: [daemon.js:17438] [64149f5695a347ceb67a8daa59dcb416] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:09:42.000] INFO: [daemon.js:17438] [73ed0546e30e4290b04af9a2a687df50] → GET /mavis/health
+[23:09:42.001] INFO: [daemon.js:17438] [73ed0546e30e4290b04af9a2a687df50] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:09:52.014] INFO: [daemon.js:17438] [99da1af7dc944a2faddb27d1180557b5] → GET /mavis/health
+[23:09:52.014] INFO: [daemon.js:17438] [99da1af7dc944a2faddb27d1180557b5] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:10:02.020] INFO: [daemon.js:17438] [f26620f45c404da79c77ec892c9f539d] → GET /mavis/health
+[23:10:02.020] INFO: [daemon.js:17438] [f26620f45c404da79c77ec892c9f539d] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:10:12.031] INFO: [daemon.js:17438] [e061a5afdc884dcebfb75aa576284f0e] → GET /mavis/health
+[23:10:12.034] INFO: [daemon.js:17438] [e061a5afdc884dcebfb75aa576284f0e] ← GET /mavis/health status=200 duration=3ms {"locale":"en"}
+[23:10:22.041] INFO: [daemon.js:17438] [e8bb401be88d4ae1b5939315cd0f1291] → GET /mavis/health
+[23:10:22.041] INFO: [daemon.js:17438] [e8bb401be88d4ae1b5939315cd0f1291] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:10:32.045] INFO: [daemon.js:17438] [444a5a01b854490a91101474357e4703] → GET /mavis/health
+[23:10:32.045] INFO: [daemon.js:17438] [444a5a01b854490a91101474357e4703] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:10:42.053] INFO: [daemon.js:17438] [aab2c1ed69364274897e195eb6330cdc] → GET /mavis/health
+[23:10:42.053] INFO: [daemon.js:17438] [aab2c1ed69364274897e195eb6330cdc] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:10:47.915] INFO: [daemon.js:17438] [252fb0e4e40b4a15bd9364fb7312b9bd] → GET /mavis/mcp/cu
+[23:10:47.916] INFO: [daemon.js:17438] [252fb0e4e40b4a15bd9364fb7312b9bd] ← GET /mavis/mcp/cu status=200 duration=1ms {"locale":"en"}
+[23:10:47.916] INFO: [daemon.js:17438] [edb4c94611354018ab06c92c8ce15cd5] → GET /mavis/mcp/trash
+[23:10:47.917] INFO: [daemon.js:17438] [edb4c94611354018ab06c92c8ce15cd5] ← GET /mavis/mcp/trash status=200 duration=1ms {"locale":"en"}
+[23:10:52.045] INFO: [daemon.js:17438] [a1c8e41fd9824c31ae9d64060b2d8a8d] → GET /mavis/health
+[23:10:52.045] INFO: [daemon.js:17438] [a1c8e41fd9824c31ae9d64060b2d8a8d] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:11:02.047] INFO: [daemon.js:17438] [914d7b1fee104b59ab0c0adec1fc0861] → GET /mavis/health
+[23:11:02.048] INFO: [daemon.js:17438] [914d7b1fee104b59ab0c0adec1fc0861] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:11:10.052] INFO: [daemon.js:17438] [e1245ef0e74748c69f21ccd990533dd0] [mcp:matrix:stderr] [matrix-mcp-cli] tools/list dropped 2 unknown tool(s) not in this cli's KNOWN_TOOLS: matrix_extract_content_from_websites, matrix_get_upload_url
+[23:11:10.054] INFO: [daemon.js:17438] [73d0e314e67f43f989cac1fceb5c1269] → POST /mavis/mcp/cu
+[23:11:10.055] INFO: [daemon.js:17438] [73d0e314e67f43f989cac1fceb5c1269] ← POST /mavis/mcp/cu status=200 duration=1ms {"locale":"en"}
+[23:11:10.055] INFO: [daemon.js:17438] [6675badd9f494b1a93889ea2e0155f53] → POST /mavis/mcp/trash
+[23:11:10.056] INFO: [daemon.js:17438] [6675badd9f494b1a93889ea2e0155f53] ← POST /mavis/mcp/trash status=200 duration=1ms {"locale":"en"}
+[23:11:12.064] INFO: [daemon.js:17438] [d50dcd2a788945259097b220b71e40b0] → GET /mavis/health
+[23:11:12.064] INFO: [daemon.js:17438] [d50dcd2a788945259097b220b71e40b0] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:11:22.062] INFO: [daemon.js:17438] [2a50c1868645470a8545035394fac8d0] → GET /mavis/health
+[23:11:22.062] INFO: [daemon.js:17438] [2a50c1868645470a8545035394fac8d0] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:11:32.062] INFO: [daemon.js:17438] [5d4b4ecd2658494f9c72d6eb9888378d] → GET /mavis/health
+[23:11:32.062] INFO: [daemon.js:17438] [5d4b4ecd2658494f9c72d6eb9888378d] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:11:42.065] INFO: [daemon.js:17438] [2007823d31f04feb9849ff1a846e6657] → GET /mavis/health
+[23:11:42.066] INFO: [daemon.js:17438] [2007823d31f04feb9849ff1a846e6657] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:11:52.069] INFO: [daemon.js:17438] [b8284d6cb075415f83bfd99128577cff] → GET /mavis/health
+[23:11:52.070] INFO: [daemon.js:17438] [b8284d6cb075415f83bfd99128577cff] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:12:02.079] INFO: [daemon.js:17438] [e00c3a6e4b4841a5a137230fdc9db221] → GET /mavis/health
+[23:12:02.079] INFO: [daemon.js:17438] [e00c3a6e4b4841a5a137230fdc9db221] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:12:12.092] INFO: [daemon.js:17438] [1273bbba973b42408fd0406bc914f6e6] → GET /mavis/health
+[23:12:12.093] INFO: [daemon.js:17438] [1273bbba973b42408fd0406bc914f6e6] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:12:22.101] INFO: [daemon.js:17438] [c5259a79d6224fc9878a2d78458ac701] → GET /mavis/health
+[23:12:22.101] INFO: [daemon.js:17438] [c5259a79d6224fc9878a2d78458ac701] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:12:32.113] INFO: [daemon.js:17438] [c85605a932764a2a836c7296b6c6a29a] → GET /mavis/health
+[23:12:32.113] INFO: [daemon.js:17438] [c85605a932764a2a836c7296b6c6a29a] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:12:42.127] INFO: [daemon.js:17438] [6802181c4f0644f584a7713ce61a3f23] → GET /mavis/health
+[23:12:42.127] INFO: [daemon.js:17438] [6802181c4f0644f584a7713ce61a3f23] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:12:52.131] INFO: [daemon.js:17438] [638fdf102fd241eab6d2666d99f2bc36] → GET /mavis/health
+[23:12:52.131] INFO: [daemon.js:17438] [638fdf102fd241eab6d2666d99f2bc36] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:13:02.137] INFO: [daemon.js:17438] [252c179f879a4be7ab0c0b786ea59ce3] → GET /mavis/health
+[23:13:02.138] INFO: [daemon.js:17438] [252c179f879a4be7ab0c0b786ea59ce3] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:13:12.144] INFO: [daemon.js:17438] [2f3c07513dae44c49169a80073852605] → GET /mavis/health
+[23:13:12.144] INFO: [daemon.js:17438] [2f3c07513dae44c49169a80073852605] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:13:22.160] INFO: [daemon.js:17438] [57d4c11aa7ee4ecbb6f0c2ba4948a661] → GET /mavis/health
+[23:13:22.161] INFO: [daemon.js:17438] [57d4c11aa7ee4ecbb6f0c2ba4948a661] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:13:32.182] INFO: [daemon.js:17438] [d1a6a8ed38eb4faf95d9c032a016387e] → GET /mavis/health
+[23:13:32.182] INFO: [daemon.js:17438] [d1a6a8ed38eb4faf95d9c032a016387e] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:13:42.186] INFO: [daemon.js:17438] [ed4b17d9f3f24d2e9c2896efab94e7f6] → GET /mavis/health
+[23:13:42.186] INFO: [daemon.js:17438] [ed4b17d9f3f24d2e9c2896efab94e7f6] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:13:52.181] INFO: [daemon.js:17438] [dcc2e036263b423dbb4636538c26d43e] → GET /mavis/health
+[23:13:52.182] INFO: [daemon.js:17438] [dcc2e036263b423dbb4636538c26d43e] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:14:02.191] INFO: [daemon.js:17438] [780aa2f0fbec49ddb8d6b5cd9202e503] → GET /mavis/health
+[23:14:02.192] INFO: [daemon.js:17438] [780aa2f0fbec49ddb8d6b5cd9202e503] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:14:12.205] INFO: [daemon.js:17438] [d8e9b92192ce49aba85afc30f4de149b] → GET /mavis/health
+[23:14:12.206] INFO: [daemon.js:17438] [d8e9b92192ce49aba85afc30f4de149b] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:14:22.219] INFO: [daemon.js:17438] [b4d212fcd0ac45d2866db20dd978481a] → GET /mavis/health
+[23:14:22.219] INFO: [daemon.js:17438] [b4d212fcd0ac45d2866db20dd978481a] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:14:32.232] INFO: [daemon.js:17438] [80151729c5754de0ae660bd2984b7cc1] → GET /mavis/health
+[23:14:32.233] INFO: [daemon.js:17438] [80151729c5754de0ae660bd2984b7cc1] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:14:42.235] INFO: [daemon.js:17438] [87d11a5e5cd24180b35fb6b86d702ac9] → GET /mavis/health
+[23:14:42.235] INFO: [daemon.js:17438] [87d11a5e5cd24180b35fb6b86d702ac9] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:14:52.239] INFO: [daemon.js:17438] [a4cdb0f926674733ac3f23c5659fa62c] → GET /mavis/health
+[23:14:52.240] INFO: [daemon.js:17438] [a4cdb0f926674733ac3f23c5659fa62c] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:15:02.254] INFO: [daemon.js:17438] [cae1d9433ca4458886a8127ce68c8a78] → GET /mavis/health
+[23:15:02.255] INFO: [daemon.js:17438] [cae1d9433ca4458886a8127ce68c8a78] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:15:12.264] INFO: [daemon.js:17438] [1211fa4ce4db458484e7de8fa1f4f1d5] → GET /mavis/health
+[23:15:12.265] INFO: [daemon.js:17438] [1211fa4ce4db458484e7de8fa1f4f1d5] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:15:22.273] INFO: [daemon.js:17438] [095865260b524435a42ac5ae903bc447] → GET /mavis/health
+[23:15:22.273] INFO: [daemon.js:17438] [095865260b524435a42ac5ae903bc447] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:15:32.285] INFO: [daemon.js:17438] [af4626ec29b84acfbb8a3f91adc6ced0] → GET /mavis/health
+[23:15:32.286] INFO: [daemon.js:17438] [af4626ec29b84acfbb8a3f91adc6ced0] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:15:42.283] INFO: [daemon.js:17438] [feb16693581940e498d6507b94f88ae5] → GET /mavis/health
+[23:15:42.283] INFO: [daemon.js:17438] [feb16693581940e498d6507b94f88ae5] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:15:52.289] INFO: [daemon.js:17438] [177ad19d144a4ff688ef9d829371d79e] → GET /mavis/health
+[23:15:52.289] INFO: [daemon.js:17438] [177ad19d144a4ff688ef9d829371d79e] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:15:54.782] INFO: [daemon.js:17438] [40ed803d96a34c4291519bba0ac7f0b9] → GET /mavis/mcp/cu
+[23:15:54.783] INFO: [daemon.js:17438] [40ed803d96a34c4291519bba0ac7f0b9] ← GET /mavis/mcp/cu status=200 duration=1ms {"locale":"en"}
+[23:15:54.783] INFO: [daemon.js:17438] [283ce35f100f4becba53f53dc9761488] → GET /mavis/mcp/trash
+[23:15:54.783] INFO: [daemon.js:17438] [283ce35f100f4becba53f53dc9761488] ← GET /mavis/mcp/trash status=200 duration=0ms {"locale":"en"}
+[23:16:02.302] INFO: [daemon.js:17438] [78c44a3a7a624e0ea5bc7ba6a7b481d7] → GET /mavis/health
+[23:16:02.303] INFO: [daemon.js:17438] [78c44a3a7a624e0ea5bc7ba6a7b481d7] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:16:10.056] INFO: [daemon.js:17438] [d0fd2b847e494d71b9e85f73ccd8efc4] → POST /mavis/mcp/cu
+[23:16:10.058] INFO: [daemon.js:17438] [d0fd2b847e494d71b9e85f73ccd8efc4] ← POST /mavis/mcp/cu status=200 duration=2ms {"locale":"en"}
+[23:16:10.059] INFO: [daemon.js:17438] [e9fbdfc585f04a65bcac7d7468ca6265] → POST /mavis/mcp/trash
+[23:16:10.060] INFO: [daemon.js:17438] [e9fbdfc585f04a65bcac7d7468ca6265] ← POST /mavis/mcp/trash status=200 duration=1ms {"locale":"en"}
+[23:16:10.532] INFO: [daemon.js:17438] [7961c5d1ffbe464d8fd10c3616c9eedd] [mcp:matrix:stderr] [matrix-mcp-cli] tools/list dropped 2 unknown tool(s) not in this cli's KNOWN_TOOLS: matrix_extract_content_from_websites, matrix_get_upload_url
+[23:16:12.303] INFO: [daemon.js:17438] [74344266fb964c6c92d52903371feb2d] → GET /mavis/health
+[23:16:12.304] INFO: [daemon.js:17438] [74344266fb964c6c92d52903371feb2d] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:16:22.309] INFO: [daemon.js:17438] [313bc90edcf0485cbeefacc5125891d1] → GET /mavis/health
+[23:16:22.310] INFO: [daemon.js:17438] [313bc90edcf0485cbeefacc5125891d1] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:16:32.319] INFO: [daemon.js:17438] [d83cfd1e5b764952a89ff4d89886e409] → GET /mavis/health
+[23:16:32.319] INFO: [daemon.js:17438] [d83cfd1e5b764952a89ff4d89886e409] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:16:42.327] INFO: [daemon.js:17438] [0742747b55bd45afad2e7a9929525fb5] → GET /mavis/health
+[23:16:42.328] INFO: [daemon.js:17438] [0742747b55bd45afad2e7a9929525fb5] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:16:52.344] INFO: [daemon.js:17438] [2e22e3c175104e51860e30c61684fcf4] → GET /mavis/health
+[23:16:52.344] INFO: [daemon.js:17438] [2e22e3c175104e51860e30c61684fcf4] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:17:02.337] INFO: [daemon.js:17438] [c0b8231349394fda8adb4c0379dcd093] → GET /mavis/health
+[23:17:02.337] INFO: [daemon.js:17438] [c0b8231349394fda8adb4c0379dcd093] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:17:12.352] INFO: [daemon.js:17438] [0d5f6b7018f444eaaa037053935cd4da] → GET /mavis/health
+[23:17:12.352] INFO: [daemon.js:17438] [0d5f6b7018f444eaaa037053935cd4da] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:17:22.378] INFO: [daemon.js:17438] [631169a4d00b49a39b55fc58aef0a4f8] → GET /mavis/health
+[23:17:22.378] INFO: [daemon.js:17438] [631169a4d00b49a39b55fc58aef0a4f8] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:17:32.367] INFO: [daemon.js:17438] [80e3e7f15abc436181b67d553187afe8] → GET /mavis/health
+[23:17:32.367] INFO: [daemon.js:17438] [80e3e7f15abc436181b67d553187afe8] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:17:42.381] INFO: [daemon.js:17438] [32c44c5a0a734106b3a57f2b04047ad9] → GET /mavis/health
+[23:17:42.381] INFO: [daemon.js:17438] [32c44c5a0a734106b3a57f2b04047ad9] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:17:52.389] INFO: [daemon.js:17438] [4c3c71b8c23b4fddb1647a217e1a1e4c] → GET /mavis/health
+[23:17:52.389] INFO: [daemon.js:17438] [4c3c71b8c23b4fddb1647a217e1a1e4c] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:18:02.408] INFO: [daemon.js:17438] [4bbda47f7d934b02ac0dba7824ef7594] → GET /mavis/health
+[23:18:02.409] INFO: [daemon.js:17438] [4bbda47f7d934b02ac0dba7824ef7594] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:18:12.395] INFO: [daemon.js:17438] [88d9a059f7d14ae99afe502999093262] → GET /mavis/health
+[23:18:12.395] INFO: [daemon.js:17438] [88d9a059f7d14ae99afe502999093262] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:18:22.402] INFO: [daemon.js:17438] [38d6de935c59413a897ae0b5ff11c42e] → GET /mavis/health
+[23:18:22.402] INFO: [daemon.js:17438] [38d6de935c59413a897ae0b5ff11c42e] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:18:32.417] INFO: [daemon.js:17438] [86798c13d84145a59f18c0557a34f46a] → GET /mavis/health
+[23:18:32.418] INFO: [daemon.js:17438] [86798c13d84145a59f18c0557a34f46a] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:18:42.413] INFO: [daemon.js:17438] [801d77d92da440afadaab7e546160901] → GET /mavis/health
+[23:18:42.413] INFO: [daemon.js:17438] [801d77d92da440afadaab7e546160901] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:18:52.425] INFO: [daemon.js:17438] [9376acf8a02f4bf3964d4cefe3dec7af] → GET /mavis/health
+[23:18:52.425] INFO: [daemon.js:17438] [9376acf8a02f4bf3964d4cefe3dec7af] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:19:02.435] INFO: [daemon.js:17438] [d0d5de3f135243e08097da60c5ca3038] → GET /mavis/health
+[23:19:02.435] INFO: [daemon.js:17438] [d0d5de3f135243e08097da60c5ca3038] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:19:12.454] INFO: [daemon.js:17438] [b2610ae0b7a942c9980ab2b60819e194] → GET /mavis/health
+[23:19:12.454] INFO: [daemon.js:17438] [b2610ae0b7a942c9980ab2b60819e194] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:19:22.447] INFO: [daemon.js:17438] [46bfb76e3a0844d08b5d5bd0c38a7030] → GET /mavis/health
+[23:19:22.447] INFO: [daemon.js:17438] [46bfb76e3a0844d08b5d5bd0c38a7030] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:19:32.460] INFO: [daemon.js:17438] [a124c048fc0b472eb65f939eb887387c] → GET /mavis/health
+[23:19:32.460] INFO: [daemon.js:17438] [a124c048fc0b472eb65f939eb887387c] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:19:42.474] INFO: [daemon.js:17438] [8dc26f9bcd974a4cbda5b0e9d1ba55df] → GET /mavis/health
+[23:19:42.474] INFO: [daemon.js:17438] [8dc26f9bcd974a4cbda5b0e9d1ba55df] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:19:52.471] INFO: [daemon.js:17438] [f916c21febde487b8d7138fc0ad25434] → GET /mavis/health
+[23:19:52.472] INFO: [daemon.js:17438] [f916c21febde487b8d7138fc0ad25434] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:20:02.491] INFO: [daemon.js:17438] [58ed8582ff264a9a82f2e9c57ee9e6cb] → GET /mavis/health
+[23:20:02.492] INFO: [daemon.js:17438] [58ed8582ff264a9a82f2e9c57ee9e6cb] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:20:12.490] INFO: [daemon.js:17438] [376afc23e6ee4d49a3915f8798365893] → GET /mavis/health
+[23:20:12.490] INFO: [daemon.js:17438] [376afc23e6ee4d49a3915f8798365893] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:20:22.503] INFO: [daemon.js:17438] [3b41bcec3fbb4b3f93274ef3c436cb1b] → GET /mavis/health
+[23:20:22.503] INFO: [daemon.js:17438] [3b41bcec3fbb4b3f93274ef3c436cb1b] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:20:32.511] INFO: [daemon.js:17438] [0bb2a743a1e244479b53d120ca07aaa3] → GET /mavis/health
+[23:20:32.512] INFO: [daemon.js:17438] [0bb2a743a1e244479b53d120ca07aaa3] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:20:42.516] INFO: [daemon.js:17438] [40d92973cffb462cb77f6b0906220620] → GET /mavis/health
+[23:20:42.517] INFO: [daemon.js:17438] [40d92973cffb462cb77f6b0906220620] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:20:52.520] INFO: [daemon.js:17438] [7c91aed09f234a628591567c82557b57] → GET /mavis/health
+[23:20:52.521] INFO: [daemon.js:17438] [7c91aed09f234a628591567c82557b57] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:21:01.850] INFO: [daemon.js:17438] [98b179e727714d7886987d7760a2b8a7] → GET /mavis/mcp/cu
+[23:21:01.850] INFO: [daemon.js:17438] [98b179e727714d7886987d7760a2b8a7] ← GET /mavis/mcp/cu status=200 duration=0ms {"locale":"en"}
+[23:21:01.850] INFO: [daemon.js:17438] [be5b948d03ed4e7e906e6e32e175bfa8] → GET /mavis/mcp/trash
+[23:21:01.851] INFO: [daemon.js:17438] [be5b948d03ed4e7e906e6e32e175bfa8] ← GET /mavis/mcp/trash status=200 duration=1ms {"locale":"en"}
+[23:21:02.527] INFO: [daemon.js:17438] [4cc2ddba83d6432a8768997e484ab155] → GET /mavis/health
+[23:21:02.527] INFO: [daemon.js:17438] [4cc2ddba83d6432a8768997e484ab155] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:21:10.068] INFO: [daemon.js:17438] [1091e03bea414e908046c4ba053f0209] [mcp:matrix:stderr] [matrix-mcp-cli] tools/list dropped 2 unknown tool(s) not in this cli's KNOWN_TOOLS: matrix_extract_content_from_websites, matrix_get_upload_url
+[23:21:10.070] INFO: [daemon.js:17438] [18407634f606433a8292f9b912baf35b] → POST /mavis/mcp/cu
+[23:21:10.072] INFO: [daemon.js:17438] [18407634f606433a8292f9b912baf35b] ← POST /mavis/mcp/cu status=200 duration=2ms {"locale":"en"}
+[23:21:10.072] INFO: [daemon.js:17438] [7a98418e878b406dabf38394c36ffbf4] → POST /mavis/mcp/trash
+[23:21:10.073] INFO: [daemon.js:17438] [7a98418e878b406dabf38394c36ffbf4] ← POST /mavis/mcp/trash status=200 duration=1ms {"locale":"en"}
+[23:21:12.545] INFO: [daemon.js:17438] [cc6dcff4549b49aeb703a81a5ef7eef5] → GET /mavis/health
+[23:21:12.545] INFO: [daemon.js:17438] [cc6dcff4549b49aeb703a81a5ef7eef5] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:21:22.526] INFO: [daemon.js:17438] [628edd8beea34ccf9da4ec869563a57a] → GET /mavis/health
+[23:21:22.526] INFO: [daemon.js:17438] [628edd8beea34ccf9da4ec869563a57a] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:21:32.532] INFO: [daemon.js:17438] [047198e64c3241c88f827dc401370817] → GET /mavis/health
+[23:21:32.532] INFO: [daemon.js:17438] [047198e64c3241c88f827dc401370817] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:21:42.560] INFO: [daemon.js:17438] [5f00dae3141a4867be6ebb2c7f262c79] → GET /mavis/health
+[23:21:42.560] INFO: [daemon.js:17438] [5f00dae3141a4867be6ebb2c7f262c79] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:21:52.566] INFO: [daemon.js:17438] [ae748760a43c4df491bf63f52671ba5a] → GET /mavis/health
+[23:21:52.567] INFO: [daemon.js:17438] [ae748760a43c4df491bf63f52671ba5a] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:22:02.577] INFO: [daemon.js:17438] [f6dbb432a03a432fa62c80299ecf190c] → GET /mavis/health
+[23:22:02.577] INFO: [daemon.js:17438] [f6dbb432a03a432fa62c80299ecf190c] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:22:12.581] INFO: [daemon.js:17438] [503bee1d96c448b4953a1926c3cf2f15] → GET /mavis/health
+[23:22:12.582] INFO: [daemon.js:17438] [503bee1d96c448b4953a1926c3cf2f15] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:22:22.595] INFO: [daemon.js:17438] [38cede7a7d4e4731be37243f34585df2] → GET /mavis/health
+[23:22:22.595] INFO: [daemon.js:17438] [38cede7a7d4e4731be37243f34585df2] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:22:32.601] INFO: [daemon.js:17438] [b08515a64d3e4f1fbf6564a029bd708f] → GET /mavis/health
+[23:22:32.601] INFO: [daemon.js:17438] [b08515a64d3e4f1fbf6564a029bd708f] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:22:42.607] INFO: [daemon.js:17438] [596e79b585484e1fba9608585b9626c7] → GET /mavis/health
+[23:22:42.607] INFO: [daemon.js:17438] [596e79b585484e1fba9608585b9626c7] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:22:52.615] INFO: [daemon.js:17438] [58e8efb7ba0c4c9ea17c317f6ddbdff7] → GET /mavis/health
+[23:22:52.615] INFO: [daemon.js:17438] [58e8efb7ba0c4c9ea17c317f6ddbdff7] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:23:02.619] INFO: [daemon.js:17438] [26c214a18844424988e60a8c8623be1d] → GET /mavis/health
+[23:23:02.619] INFO: [daemon.js:17438] [26c214a18844424988e60a8c8623be1d] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:23:12.628] INFO: [daemon.js:17438] [bdf764c5a77e46b9a1a432b068b97e82] → GET /mavis/health
+[23:23:12.628] INFO: [daemon.js:17438] [bdf764c5a77e46b9a1a432b068b97e82] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:23:22.643] INFO: [daemon.js:17438] [8765924bf0aa4142bb40d9b86f8dc7e8] → GET /mavis/health
+[23:23:22.643] INFO: [daemon.js:17438] [8765924bf0aa4142bb40d9b86f8dc7e8] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:23:32.662] INFO: [daemon.js:17438] [75a549c274b44f22b82c389e307b3e83] → GET /mavis/health
+[23:23:32.662] INFO: [daemon.js:17438] [75a549c274b44f22b82c389e307b3e83] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:23:42.659] INFO: [daemon.js:17438] [80b640bad1454bc6bbc250e0203017a3] → GET /mavis/health
+[23:23:42.660] INFO: [daemon.js:17438] [80b640bad1454bc6bbc250e0203017a3] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:23:52.669] INFO: [daemon.js:17438] [f0b0c3d828c0483697fcc7949614d1f1] → GET /mavis/health
+[23:23:52.670] INFO: [daemon.js:17438] [f0b0c3d828c0483697fcc7949614d1f1] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:24:02.680] INFO: [daemon.js:17438] [26746fd5068c45afbbdfa51c988e15d6] → GET /mavis/health
+[23:24:02.681] INFO: [daemon.js:17438] [26746fd5068c45afbbdfa51c988e15d6] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:24:12.684] INFO: [daemon.js:17438] [ce9e9b82346c4306bcb0777159a42f93] → GET /mavis/health
+[23:24:12.684] INFO: [daemon.js:17438] [ce9e9b82346c4306bcb0777159a42f93] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:24:22.708] INFO: [daemon.js:17438] [4c80635b43a04608a8e7b9fb3cfa2634] → GET /mavis/health
+[23:24:22.708] INFO: [daemon.js:17438] [4c80635b43a04608a8e7b9fb3cfa2634] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:24:32.713] INFO: [daemon.js:17438] [6d9c049a0a1544c28b7d00c9a483350e] → GET /mavis/health
+[23:24:32.713] INFO: [daemon.js:17438] [6d9c049a0a1544c28b7d00c9a483350e] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:24:42.705] INFO: [daemon.js:17438] [af4e97bfb6614a00b798ca402d396564] → GET /mavis/health
+[23:24:42.706] INFO: [daemon.js:17438] [af4e97bfb6614a00b798ca402d396564] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:24:52.718] INFO: [daemon.js:17438] [c7af2e3dabfb41cea3b4c62f726a1df9] → GET /mavis/health
+[23:24:52.719] INFO: [daemon.js:17438] [c7af2e3dabfb41cea3b4c62f726a1df9] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:25:02.735] INFO: [daemon.js:17438] [517864ff535948f18e80caa0b59dc509] → GET /mavis/health
+[23:25:02.735] INFO: [daemon.js:17438] [517864ff535948f18e80caa0b59dc509] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:25:12.725] INFO: [daemon.js:17438] [f7aa7b43036c4679add400a09ee53f30] → GET /mavis/health
+[23:25:12.726] INFO: [daemon.js:17438] [f7aa7b43036c4679add400a09ee53f30] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:25:22.739] INFO: [daemon.js:17438] [dc9bdc419f024c9d85daa676fb32e1ba] → GET /mavis/health
+[23:25:22.739] INFO: [daemon.js:17438] [dc9bdc419f024c9d85daa676fb32e1ba] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:25:32.732] INFO: [daemon.js:17438] [fc38c885b20b4cc0b44b903df42fcd44] → GET /mavis/health
+[23:25:32.732] INFO: [daemon.js:17438] [fc38c885b20b4cc0b44b903df42fcd44] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:25:42.749] INFO: [daemon.js:17438] [5a64662725cb46519781a67b54e6cee5] → GET /mavis/health
+[23:25:42.749] INFO: [daemon.js:17438] [5a64662725cb46519781a67b54e6cee5] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:25:52.754] INFO: [daemon.js:17438] [40fdb501b18f48a69c999fb138fbcf4a] → GET /mavis/health
+[23:25:52.754] INFO: [daemon.js:17438] [40fdb501b18f48a69c999fb138fbcf4a] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:26:02.746] INFO: [daemon.js:17438] [35505710ec144361932789be1ca890e8] → GET /mavis/health
+[23:26:02.746] INFO: [daemon.js:17438] [35505710ec144361932789be1ca890e8] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:26:08.878] INFO: [daemon.js:17438] [daabdbc1732645318042d811ffb2825e] → GET /mavis/mcp/cu
+[23:26:08.879] INFO: [daemon.js:17438] [daabdbc1732645318042d811ffb2825e] ← GET /mavis/mcp/cu status=200 duration=1ms {"locale":"en"}
+[23:26:08.879] INFO: [daemon.js:17438] [87754ac4974848db99e925263cf31ffa] → GET /mavis/mcp/trash
+[23:26:08.879] INFO: [daemon.js:17438] [87754ac4974848db99e925263cf31ffa] ← GET /mavis/mcp/trash status=200 duration=0ms {"locale":"en"}
+[23:26:10.073] INFO: [daemon.js:17438] [e56a717020824702afd405ef4e80316b] → POST /mavis/mcp/cu
+[23:26:10.075] INFO: [daemon.js:17438] [e56a717020824702afd405ef4e80316b] ← POST /mavis/mcp/cu status=200 duration=2ms {"locale":"en"}
+[23:26:10.075] INFO: [daemon.js:17438] [0dc0561f015f4d8eacfeced92684b108] → POST /mavis/mcp/trash
+[23:26:10.076] INFO: [daemon.js:17438] [0dc0561f015f4d8eacfeced92684b108] ← POST /mavis/mcp/trash status=200 duration=1ms {"locale":"en"}
+[23:26:10.500] INFO: [daemon.js:17438] [328348deffc0446d9ee2bfc1ee966333] [mcp:matrix:stderr] [matrix-mcp-cli] tools/list dropped 2 unknown tool(s) not in this cli's KNOWN_TOOLS: matrix_extract_content_from_websites, matrix_get_upload_url
+[23:26:12.756] INFO: [daemon.js:17438] [c879dd420f5d4447be501419ce4a121d] → GET /mavis/health
+[23:26:12.756] INFO: [daemon.js:17438] [c879dd420f5d4447be501419ce4a121d] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:26:22.771] INFO: [daemon.js:17438] [5c318a5b635b4d8ea09a094d6565b7cb] → GET /mavis/health
+[23:26:22.771] INFO: [daemon.js:17438] [5c318a5b635b4d8ea09a094d6565b7cb] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:26:32.775] INFO: [daemon.js:17438] [678f991beed147318190e2843cea4e73] → GET /mavis/health
+[23:26:32.776] INFO: [daemon.js:17438] [678f991beed147318190e2843cea4e73] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:26:42.784] INFO: [daemon.js:17438] [487da7675dde49189af87b14b4a90d66] → GET /mavis/health
+[23:26:42.784] INFO: [daemon.js:17438] [487da7675dde49189af87b14b4a90d66] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:26:52.800] INFO: [daemon.js:17438] [d92c27ebcc2f480497d2d502b3bd5953] → GET /mavis/health
+[23:26:52.800] INFO: [daemon.js:17438] [d92c27ebcc2f480497d2d502b3bd5953] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:27:02.821] INFO: [daemon.js:17438] [736b6ef6abaf4c588c60abd43b0e3c05] → GET /mavis/health
+[23:27:02.821] INFO: [daemon.js:17438] [736b6ef6abaf4c588c60abd43b0e3c05] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:27:12.827] INFO: [daemon.js:17438] [a32822ec504845b197c906f3a4813cf4] → GET /mavis/health
+[23:27:12.827] INFO: [daemon.js:17438] [a32822ec504845b197c906f3a4813cf4] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:27:22.828] INFO: [daemon.js:17438] [9a0735d0a9474fecb6743efd4f2600d0] → GET /mavis/health
+[23:27:22.829] INFO: [daemon.js:17438] [9a0735d0a9474fecb6743efd4f2600d0] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:27:32.841] INFO: [daemon.js:17438] [b73d102c986a4540947ea1685576fa1b] → GET /mavis/health
+[23:27:32.841] INFO: [daemon.js:17438] [b73d102c986a4540947ea1685576fa1b] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:27:42.855] INFO: [daemon.js:17438] [196b100adec1422393026b0aaa7e9bc9] → GET /mavis/health
+[23:27:42.855] INFO: [daemon.js:17438] [196b100adec1422393026b0aaa7e9bc9] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:27:52.844] INFO: [daemon.js:17438] [706be52995094e9c8fbf693e9dcf169f] → GET /mavis/health
+[23:27:52.844] INFO: [daemon.js:17438] [706be52995094e9c8fbf693e9dcf169f] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:28:02.855] INFO: [daemon.js:17438] [373aefac895440a492fac12bdbed521a] → GET /mavis/health
+[23:28:02.855] INFO: [daemon.js:17438] [373aefac895440a492fac12bdbed521a] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:28:12.863] INFO: [daemon.js:17438] [07f5465a4ced4234a6adbbcebcaec690] → GET /mavis/health
+[23:28:12.863] INFO: [daemon.js:17438] [07f5465a4ced4234a6adbbcebcaec690] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:28:22.870] INFO: [daemon.js:17438] [23c773a7a39d4d7f82bd976b5f7d6c2c] → GET /mavis/health
+[23:28:22.870] INFO: [daemon.js:17438] [23c773a7a39d4d7f82bd976b5f7d6c2c] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:28:32.875] INFO: [daemon.js:17438] [9c06b677b0ed4ee3ba9a6a97a0fd3f35] → GET /mavis/health
+[23:28:32.875] INFO: [daemon.js:17438] [9c06b677b0ed4ee3ba9a6a97a0fd3f35] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:28:42.876] INFO: [daemon.js:17438] [cec0f318f5dd4677b1f7c6f1d30bafdf] → GET /mavis/health
+[23:28:42.876] INFO: [daemon.js:17438] [cec0f318f5dd4677b1f7c6f1d30bafdf] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:28:52.886] INFO: [daemon.js:17438] [b06d92a7a82646a4bcf89b508876c210] → GET /mavis/health
+[23:28:52.886] INFO: [daemon.js:17438] [b06d92a7a82646a4bcf89b508876c210] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:29:02.894] INFO: [daemon.js:17438] [232594e40fb8403b9de11595f9709391] → GET /mavis/health
+[23:29:02.895] INFO: [daemon.js:17438] [232594e40fb8403b9de11595f9709391] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:29:12.898] INFO: [daemon.js:17438] [c5122b4b8d1f4520bb49e9b2a663e8d9] → GET /mavis/health
+[23:29:12.898] INFO: [daemon.js:17438] [c5122b4b8d1f4520bb49e9b2a663e8d9] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:29:22.905] INFO: [daemon.js:17438] [e763ce6f30044613b17df82a0aa58075] → GET /mavis/health
+[23:29:22.905] INFO: [daemon.js:17438] [e763ce6f30044613b17df82a0aa58075] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:29:32.915] INFO: [daemon.js:17438] [4dd84d9c9fc44ff28dab9e9b6ead2a99] → GET /mavis/health
+[23:29:32.915] INFO: [daemon.js:17438] [4dd84d9c9fc44ff28dab9e9b6ead2a99] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:29:42.923] INFO: [daemon.js:17438] [3aff358bf60945c7aa7c48e50740aa97] → GET /mavis/health
+[23:29:42.923] INFO: [daemon.js:17438] [3aff358bf60945c7aa7c48e50740aa97] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:29:52.944] INFO: [daemon.js:17438] [be387520437745a8bbf351e7026988af] → GET /mavis/health
+[23:29:52.944] INFO: [daemon.js:17438] [be387520437745a8bbf351e7026988af] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:30:02.935] INFO: [daemon.js:17438] [635386097c4b4928b80f3d5c1e4527d4] → GET /mavis/health
+[23:30:02.935] INFO: [daemon.js:17438] [635386097c4b4928b80f3d5c1e4527d4] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:30:12.943] INFO: [daemon.js:17438] [5bd6cb506f70450eba08ce031b3ae4fe] → GET /mavis/health
+[23:30:12.943] INFO: [daemon.js:17438] [5bd6cb506f70450eba08ce031b3ae4fe] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:30:22.959] INFO: [daemon.js:17438] [20aa1c8d344642b88a5b81c79e2e9290] → GET /mavis/health
+[23:30:22.959] INFO: [daemon.js:17438] [20aa1c8d344642b88a5b81c79e2e9290] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:30:32.964] INFO: [daemon.js:17438] [c6b64089aa8b4799846ad7199b3044a3] → GET /mavis/health
+[23:30:32.965] INFO: [daemon.js:17438] [c6b64089aa8b4799846ad7199b3044a3] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:30:42.951] INFO: [daemon.js:17438] [7c300831f4b04106a90006739f10d168] → GET /mavis/health
+[23:30:42.951] INFO: [daemon.js:17438] [7c300831f4b04106a90006739f10d168] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:30:52.953] INFO: [daemon.js:17438] [42a0e5ea04c84ec5b8d92f7883453300] → GET /mavis/health
+[23:30:52.953] INFO: [daemon.js:17438] [42a0e5ea04c84ec5b8d92f7883453300] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:31:02.960] INFO: [daemon.js:17438] [96a37869c2a748a7a3b1c58654cbe776] → GET /mavis/health
+[23:31:02.960] INFO: [daemon.js:17438] [96a37869c2a748a7a3b1c58654cbe776] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:31:10.080] INFO: [daemon.js:17438] [6c52d3d56906453285155b5167527df8] [mcp:matrix:stderr] [matrix-mcp-cli] tools/list dropped 2 unknown tool(s) not in this cli's KNOWN_TOOLS: matrix_extract_content_from_websites, matrix_get_upload_url
+[23:31:10.081] INFO: [daemon.js:17438] [1142a266e9de49b79405f9184affea27] → POST /mavis/mcp/cu
+[23:31:10.083] INFO: [daemon.js:17438] [1142a266e9de49b79405f9184affea27] ← POST /mavis/mcp/cu status=200 duration=2ms {"locale":"en"}
+[23:31:10.083] INFO: [daemon.js:17438] [d500eb506fa4479ebbc905c319999020] → POST /mavis/mcp/trash
+[23:31:10.084] INFO: [daemon.js:17438] [d500eb506fa4479ebbc905c319999020] ← POST /mavis/mcp/trash status=200 duration=1ms {"locale":"en"}
+[23:31:12.960] INFO: [daemon.js:17438] [8e7702f4dd1a4d4cb2fbfe22291c9ac1] → GET /mavis/health
+[23:31:12.961] INFO: [daemon.js:17438] [8e7702f4dd1a4d4cb2fbfe22291c9ac1] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:31:15.410] INFO: [daemon.js:17438] [8358c06a084e42978e5ab48acbe93264] → GET /mavis/mcp/cu
+[23:31:15.410] INFO: [daemon.js:17438] [8358c06a084e42978e5ab48acbe93264] ← GET /mavis/mcp/cu status=200 duration=0ms {"locale":"en"}
+[23:31:15.410] INFO: [daemon.js:17438] [d6501bbdd2cd4d5dbef73390fac5a175] → GET /mavis/mcp/trash
+[23:31:15.411] INFO: [daemon.js:17438] [d6501bbdd2cd4d5dbef73390fac5a175] ← GET /mavis/mcp/trash status=200 duration=1ms {"locale":"en"}
+[23:31:22.968] INFO: [daemon.js:17438] [dc995a900d9a46bf886ab7bfc9f2169d] → GET /mavis/health
+[23:31:22.968] INFO: [daemon.js:17438] [dc995a900d9a46bf886ab7bfc9f2169d] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:31:32.979] INFO: [daemon.js:17438] [7bafb0a9dee047cc9063a80ebfe56026] → GET /mavis/health
+[23:31:32.979] INFO: [daemon.js:17438] [7bafb0a9dee047cc9063a80ebfe56026] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:31:42.988] INFO: [daemon.js:17438] [9f910e6042614503b2f4d60ee8be7226] → GET /mavis/health
+[23:31:42.988] INFO: [daemon.js:17438] [9f910e6042614503b2f4d60ee8be7226] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:31:53.002] INFO: [daemon.js:17438] [2b5a823830a44061ad290a137d3a8d74] → GET /mavis/health
+[23:31:53.002] INFO: [daemon.js:17438] [2b5a823830a44061ad290a137d3a8d74] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:32:03.006] INFO: [daemon.js:17438] [341f2a0db7f74311af02a0872510ebca] → GET /mavis/health
+[23:32:03.006] INFO: [daemon.js:17438] [341f2a0db7f74311af02a0872510ebca] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:32:13.010] INFO: [daemon.js:17438] [139e67b4e0f243c9979c2ffcbe79821e] → GET /mavis/health
+[23:32:13.010] INFO: [daemon.js:17438] [139e67b4e0f243c9979c2ffcbe79821e] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:32:23.014] INFO: [daemon.js:17438] [a1f2a8e765844b5290291c1e977435a7] → GET /mavis/health
+[23:32:23.014] INFO: [daemon.js:17438] [a1f2a8e765844b5290291c1e977435a7] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:32:33.021] INFO: [daemon.js:17438] [d82488d4fa414d849cb062c0985ee730] → GET /mavis/health
+[23:32:33.022] INFO: [daemon.js:17438] [d82488d4fa414d849cb062c0985ee730] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:32:43.028] INFO: [daemon.js:17438] [9a08083da7554a1b962fe3a0848a1c4c] → GET /mavis/health
+[23:32:43.029] INFO: [daemon.js:17438] [9a08083da7554a1b962fe3a0848a1c4c] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:32:53.036] INFO: [daemon.js:17438] [4a9a1f3110bf462a90bf760146486881] → GET /mavis/health
+[23:32:53.036] INFO: [daemon.js:17438] [4a9a1f3110bf462a90bf760146486881] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:33:03.044] INFO: [daemon.js:17438] [55ed58c5668b4658b35e2277afd488a3] → GET /mavis/health
+[23:33:03.044] INFO: [daemon.js:17438] [55ed58c5668b4658b35e2277afd488a3] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:33:13.050] INFO: [daemon.js:17438] [e3eae391db3a4e9b980a95d2a1ff5c53] → GET /mavis/health
+[23:33:13.050] INFO: [daemon.js:17438] [e3eae391db3a4e9b980a95d2a1ff5c53] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:33:19.716] INFO: [daemon.js:17438] [cf4e84791e3c4302ba998f29092cb5a6] SkillFsSyncer: index synced, skillName=literature-note, scope=2, event=skill.updated
+[23:33:23.061] INFO: [daemon.js:17438] [f8a800b02b7c4bf3a8e34cba376e4b0a] → GET /mavis/health
+[23:33:23.061] INFO: [daemon.js:17438] [f8a800b02b7c4bf3a8e34cba376e4b0a] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:33:33.070] INFO: [daemon.js:17438] [a5164ba986694c5daf92341c491729b4] → GET /mavis/health
+[23:33:33.070] INFO: [daemon.js:17438] [a5164ba986694c5daf92341c491729b4] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:33:43.067] INFO: [daemon.js:17438] [b32466dbed854249a61aeb26064557a5] → GET /mavis/health
+[23:33:43.067] INFO: [daemon.js:17438] [b32466dbed854249a61aeb26064557a5] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:33:53.084] INFO: [daemon.js:17438] [88651cafae5d4f0ea83736332ad285ba] → GET /mavis/health
+[23:33:53.084] INFO: [daemon.js:17438] [88651cafae5d4f0ea83736332ad285ba] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:34:03.076] INFO: [daemon.js:17438] [3c61339bb7aa4960a326eba1e0691ea7] → GET /mavis/health
+[23:34:03.076] INFO: [daemon.js:17438] [3c61339bb7aa4960a326eba1e0691ea7] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:34:07.635] INFO: [daemon.js:17438] [44c723725c8b42a0a9628844f1367508] SkillFsSyncer: index synced, skillName=literature-note, scope=2, event=skill.updated
+[23:34:13.082] INFO: [daemon.js:17438] [a92142831a7c4283b7067669d635c6c7] → GET /mavis/health
+[23:34:13.082] INFO: [daemon.js:17438] [a92142831a7c4283b7067669d635c6c7] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:34:23.117] INFO: [daemon.js:17438] [0f62932235cc48bda432296eff0aa6e5] → GET /mavis/health
+[23:34:23.117] INFO: [daemon.js:17438] [0f62932235cc48bda432296eff0aa6e5] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:34:24.520] INFO: [daemon.js:17438] [14046d486daa40d592863d667ae6f9b7] SkillFsSyncer: index synced, skillName=literature-note, scope=2, event=skill.updated
+[23:34:33.112] INFO: [daemon.js:17438] [6cf3a8c16ba140e3bc831d5f06ec35ef] → GET /mavis/health
+[23:34:33.112] INFO: [daemon.js:17438] [6cf3a8c16ba140e3bc831d5f06ec35ef] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:34:43.112] INFO: [daemon.js:17438] [441405a623ec494fb02b3ba671f7ac41] → GET /mavis/health
+[23:34:43.112] INFO: [daemon.js:17438] [441405a623ec494fb02b3ba671f7ac41] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:34:53.131] INFO: [daemon.js:17438] [f349646ae680435ab4411b9984f9fabc] → GET /mavis/health
+[23:34:53.131] INFO: [daemon.js:17438] [f349646ae680435ab4411b9984f9fabc] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:35:03.138] INFO: [daemon.js:17438] [0bfc2f68ccda4eae839d448e0753e186] → GET /mavis/health
+[23:35:03.138] INFO: [daemon.js:17438] [0bfc2f68ccda4eae839d448e0753e186] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:35:13.143] INFO: [daemon.js:17438] [5e05fb8ccdb34bee8eda7cb52165ee73] → GET /mavis/health
+[23:35:13.143] INFO: [daemon.js:17438] [5e05fb8ccdb34bee8eda7cb52165ee73] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:35:23.151] INFO: [daemon.js:17438] [d741d6c0d11e4d268864e85079a860b4] → GET /mavis/health
+[23:35:23.151] INFO: [daemon.js:17438] [d741d6c0d11e4d268864e85079a860b4] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:35:33.157] INFO: [daemon.js:17438] [7b7d9333b2904186aa059eeb553d5826] → GET /mavis/health
+[23:35:33.157] INFO: [daemon.js:17438] [7b7d9333b2904186aa059eeb553d5826] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:35:43.172] INFO: [daemon.js:17438] [fc1f23b74d364bb5919a57017c909308] → GET /mavis/health
+[23:35:43.173] INFO: [daemon.js:17438] [fc1f23b74d364bb5919a57017c909308] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:35:53.175] INFO: [daemon.js:17438] [5411a193c24a4f8f9da65a62f0f0d190] → GET /mavis/health
+[23:35:53.175] INFO: [daemon.js:17438] [5411a193c24a4f8f9da65a62f0f0d190] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:36:03.176] INFO: [daemon.js:17438] [f38d8e53d26148ef90c3edad9b7db592] → GET /mavis/health
+[23:36:03.176] INFO: [daemon.js:17438] [f38d8e53d26148ef90c3edad9b7db592] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:36:10.086] INFO: [daemon.js:17438] [9f49e6553ae7417c8216a3650b692d22] → POST /mavis/mcp/cu
+[23:36:10.088] INFO: [daemon.js:17438] [9f49e6553ae7417c8216a3650b692d22] ← POST /mavis/mcp/cu status=200 duration=2ms {"locale":"en"}
+[23:36:10.088] INFO: [daemon.js:17438] [a62ddf8c71db4985ad7901a666cdb598] → POST /mavis/mcp/trash
+[23:36:10.090] INFO: [daemon.js:17438] [a62ddf8c71db4985ad7901a666cdb598] ← POST /mavis/mcp/trash status=200 duration=2ms {"locale":"en"}
+[23:36:10.359] INFO: [daemon.js:17438] [4661ce71aba944408f7e8da7b327eccc] [mcp:matrix:stderr] [matrix-mcp-cli] tools/list dropped 2 unknown tool(s) not in this cli's KNOWN_TOOLS: matrix_extract_content_from_websites, matrix_get_upload_url
+[23:36:13.184] INFO: [daemon.js:17438] [309d2c07711a408d9ce5516af7b40b14] → GET /mavis/health
+[23:36:13.184] INFO: [daemon.js:17438] [309d2c07711a408d9ce5516af7b40b14] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:36:22.074] INFO: [daemon.js:17438] [72ff10241c7149519c5d2271b4beb2e5] → GET /mavis/mcp/cu
+[23:36:22.074] INFO: [daemon.js:17438] [72ff10241c7149519c5d2271b4beb2e5] ← GET /mavis/mcp/cu status=200 duration=0ms {"locale":"en"}
+[23:36:22.075] INFO: [daemon.js:17438] [f589efed256d43f683adef1b05478e15] → GET /mavis/mcp/trash
+[23:36:22.075] INFO: [daemon.js:17438] [f589efed256d43f683adef1b05478e15] ← GET /mavis/mcp/trash status=200 duration=0ms {"locale":"en"}
+[23:36:23.198] INFO: [daemon.js:17438] [6ad70a72beb84340818814f4a047971c] → GET /mavis/health
+[23:36:23.198] INFO: [daemon.js:17438] [6ad70a72beb84340818814f4a047971c] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:36:29.496] INFO: [daemon.js:17438] [13b664be441740729f64b1cdf467a61a] SkillFsSyncer: index synced, skillName=literature-note, scope=2, event=skill.updated
+[23:36:33.212] INFO: [daemon.js:17438] [d751d4b1a29645e58d05eb153e744eb5] → GET /mavis/health
+[23:36:33.213] INFO: [daemon.js:17438] [d751d4b1a29645e58d05eb153e744eb5] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:36:43.231] INFO: [daemon.js:17438] [4d843847e8014d07a04d1df66be5c5d2] → GET /mavis/health
+[23:36:43.232] INFO: [daemon.js:17438] [4d843847e8014d07a04d1df66be5c5d2] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:36:53.252] INFO: [daemon.js:17438] [297858decfd64606ada728f00f835b5d] → GET /mavis/health
+[23:36:53.253] INFO: [daemon.js:17438] [297858decfd64606ada728f00f835b5d] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:37:03.247] INFO: [daemon.js:17438] [5fb25bd423de4562adf037a9d433b00f] → GET /mavis/health
+[23:37:03.248] INFO: [daemon.js:17438] [5fb25bd423de4562adf037a9d433b00f] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:37:13.258] INFO: [daemon.js:17438] [9977f98707e6475ca34050754a2b04ad] → GET /mavis/health
+[23:37:13.259] INFO: [daemon.js:17438] [9977f98707e6475ca34050754a2b04ad] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:37:23.260] INFO: [daemon.js:17438] [7892f71f21cc4932b7a28b03d6b44b5b] → GET /mavis/health
+[23:37:23.260] INFO: [daemon.js:17438] [7892f71f21cc4932b7a28b03d6b44b5b] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:37:33.270] INFO: [daemon.js:17438] [94027ad9f72d4aee986760d40742c509] → GET /mavis/health
+[23:37:33.271] INFO: [daemon.js:17438] [94027ad9f72d4aee986760d40742c509] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:37:43.284] INFO: [daemon.js:17438] [4cb8a9b5fb884bf984050683986bead4] → GET /mavis/health
+[23:37:43.285] INFO: [daemon.js:17438] [4cb8a9b5fb884bf984050683986bead4] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:37:53.301] INFO: [daemon.js:17438] [0b64bc2119f24f6ebf0c4bd5aaaf67d2] → GET /mavis/health
+[23:37:53.301] INFO: [daemon.js:17438] [0b64bc2119f24f6ebf0c4bd5aaaf67d2] ← GET /mavis/health status=200 duration=0ms {"locale":"en"}
+[23:38:03.320] INFO: [daemon.js:17438] [eb3fd055cde348899077f651f3a1ffd4] → GET /mavis/health
+[23:38:03.321] INFO: [daemon.js:17438] [eb3fd055cde348899077f651f3a1ffd4] ← GET /mavis/health status=200 duration=1ms {"locale":"en"}
+[23:38:08.154] INFO: [daemon.js:17438] [77265433439e4c769c3b21f793d96741] SkillFsSyncer: index synced, skillName=literature-note, scope=2, event=skill.updated
